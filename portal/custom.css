@@ -1,0 +1,156 @@
+/***************************************/
+/****************FOOTER*****************/
+/***************************************/
+.soonatech a {
+    border-bottom: 1px solid #fff;
+    padding: 2px 4px;
+    margin-left: 3px;
+    color: #fdfdfe;
+    font-weight: bold;
+    letter-spacing: .5px;
+}
+.soonatech img {
+    width: 100%;
+    max-width: 80px;
+}
+.soonatech {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/***************************************/
+/****************FORMS******************/
+/***************************************/
+.form-style-2-heading {
+	font-size:14px;
+	color: #666;
+    font-weight: bold;
+    padding: 12px;
+    line-height: 14px;
+    margin: 0;
+}
+.select2-container {
+	width: 35% !important;
+	width:initial;
+	padding: 6px 0;
+}
+.form-horizontal input[type=text], .form-horizontal textarea{
+	width: 35% !important;
+}
+.control-label input[type=text],  .control-label select{
+	width: 100% !important;
+	padding:0;
+}
+.form-horizontal .control-label{
+	padding: 0 5px;
+}
+.form-horizontal .control-label {
+    width: 200px !important;
+}
+.packaging-title label , .packaging-title a{
+	font-weight: bold;
+}
+
+/***************************************/
+/****************TABLES*****************/
+/***************************************/
+th {
+	cursor: pointer;
+}
+.table td {
+    font-size: 12px;
+}
+.table th, .table td {
+    padding: 8px 4px;
+}
+.dot{
+	background-color: #000;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+}
+
+.dot.edit {
+	background-color: #f89406;
+}
+.dot.view1 {
+	background-color: #62c462;
+}
+.dot.view2 {
+	background-color: #08c;
+}
+.dot.send {
+	background-color: #999;
+}
+.dot.delete {
+	background-color: #ee5f5b;
+}
+.star-edit {
+	background-image: -webkit-gradient(to right, green 50%,red 50%);
+  background-image: linear-gradient(to right, green 50%,red 50%);
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.legend {
+	float: right;
+	font-size: small;
+}
+.legend td {
+	padding: 0 10px;
+}
+.bon-table {
+	font-size: small;
+	width: 100%;
+}
+.bon-table td {
+	padding: 0 10px;
+}
+
+.printable {
+    margin: 0mm 10mm 0 10mm; /* change the margins as you want them to be. */
+}
+
+.landscape{
+	position: relative;
+	margin: 0mm 0; /* change the margins as you want them to be. */
+}
+
+/***************************************/
+/***************CALENDAR****************/
+/***************************************/
+.fc-widget-content > div {
+	min-height: 100px !important;
+}
+.fc-sun, .fc-sat {
+	background-color: #ccc;
+}
+
+/***************************************/
+/****************MODAL*****************/
+/***************************************/
+.modal {
+	width: 960px;
+    margin-left: -460px;
+}
+.modal-body {
+    padding: 0;
+    width: 100%;
+}
+
+/***************************************/
+/*****************MENU******************/
+/***************************************/
+#breadcrumb a.close-menu {
+	padding-right: 8px;
+	background-image: initial;
+}
+.expand-content {
+	margin-left: 45px !important;
+}
+.collapse-menu {
+	width: 45px !important;
+}
+.collapse-menu > li > a > span{
+	display: none;
+}

@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.0.2\n"
+
+msgid "Personal Information"
+msgstr "Informations Personnelles"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "NFF"
+msgstr "NFF"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Tel Home"
+msgstr "Telephone"
+
+msgid "Tel Work"
+msgstr "Tel (Travail)"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Marital Status"
+msgstr "État civil"
+
+msgid "# of Dependent"
+msgstr "Nombre de personnes dépendantes"
+
+msgid "Additional Information"
+msgstr "Information additionnelle"
+
+msgid "Tel"
+msgstr "Tel"
+
+msgid "Address Information"
+msgstr "Informations d'adresse"
+
+msgid "Address Line 1"
+msgstr "Adresse 1"
+
+msgid "Address Line 2"
+msgstr "Adresse Ligne 2"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Postal Code"
+msgstr "Code postal"
+
+msgid "Sector"
+msgstr "Secteur"
+
+msgid "How many years at this address?"
+msgstr "Combien d'années à cette adresse?"
+
+msgid "Owner"
+msgstr "Propriétaire"
+
+msgid "Tenant"
+msgstr "Locataire"
+
+msgid "Product List"
+msgstr "Liste de produits"
+
+msgid "Products"
+msgstr "Produits"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "1st"
+msgstr "1er"
+
+msgid "2nd"
+msgstr "2ème"
+
+msgid "3rd"
+msgstr "3ème"
+
+msgid "Order Summary"
+msgstr "Récapitulatif de la commande"
+
+msgid "Notes"
+msgstr "Remarques"
+
+msgid "Total Points"
+msgstr "Points totaux"
+
+msgid "Sales Price"
+msgstr "Prix de vente"
+
+msgid "Rebate"
+msgstr "Rabais"
+
+msgid "Deposit"
+msgstr "Dépôt"
+
+msgid "Sub Total"
+msgstr "Sous-total"
+
+msgid "Total Balance"
+msgstr "Solde total"
+
+msgid "CONDITIONS :"
+msgstr "CONDITIONS :"
+
+msgid "THE PRESENT CONTRACT COVERS A PERIOD OF"
+msgstr "LE CONTRAT ACTUEL COUVRE UNE PÉRIODE DE"
+
+msgid "MONTHS STARTING ON THE"
+msgstr "MOIS COMMANDANT LE"
+
+msgid "THE FIRST DELIVERY OF THE GOODS DESCRIBED IN ANNEX 3 WILL BE DELIVERED ON THE"
+msgstr "LA PREMIÈRE LIVRAISON DES BIENS DÉCRITS DANS L'ANNEXE 3 SERA ENTREPRIS SUR LE"
+
+msgid "THE SECOND DELIVERY WILL SUCCEED IN FOUR MONTHS, THE THIRD DELIVERY IN EIGHT MONTHS."
+msgstr "LA DEUXIÈME ENTREPÔT SUCCÈCERA EN QUATRE MOIS, LA TROISIÈME ENTREPRISE EN HUIT MOIS."
+
+msgid "TOTAL AMOUNT OF THE AGREEMENT IS"
+msgstr "MONTANT TOTAL DE L'ACCORD EST"
+
+msgid "THE TOTAL AMOUNT OF"
+msgstr "LE MONTANT TOTAL DE"
+
+msgid "PAYABLE UNDER THIS AGREEMENT, WILL BE ACQUITTED IN"
+msgstr "PAYABLE EN VERTU DE CET ACCORD, SERA ACQUIS EN"
+
+msgid "WITHDRAWS FOR THE AMOUNT OF"
+msgstr "RETRAIT LE MONTANT DE"
+
+msgid "EACH. THE FIRST WITHDRAW WILL BE TAKEN ON THE"
+msgstr "CHACUN. LE PREMIER RETRAIT SERA TENU SUR LE"
+
+msgid "THE PRE-AUTHORIZED FROM COMPLETED BY THE CONSUMER, IS AN INTEGRAL PART OF THIS AGREEMENT."
+msgstr "LE PRÉ-AUTORISÉ DE TERMINÉ PAR LE CONSOMMATEUR, EST UNE PARTIE INTÉGRANTE DE CET ACCORD."
+
+msgid "THE CONSUMER RECOGNIZES THAT THE MERCHANT MAY TAKE THE NECESSARY ACTIONS TO VERIFY THE ACCURACY OF THE INFORMATION ON THE SOLVENCY AND TO COMMUNICATE SUCH INFORMATION TO CREDIT INSTITUTIONS, ALL WITHIN THE LIMITS PERMITTED BY THE ACT."
+msgstr "LE CONSOMMATEUR RECONNAÎT QUE LE MARCHAND PEUT PRENDRE LES ACTIONS NÉCESSIELLES POUR VÉRIFIER L'EXACTITUDE DES INFORMATIONS SUR LA SOLVABILITÉ ET COMMUNIQUER CES INFORMATIONS POUR CRÉER LES INSTITUTIONS, TOUT DANS LES LIMITES PERMISES PAR LA LOI."
+
+msgid "IF MORE THAN ONE CONSUMER SIGNS THE CONTRACT, THEY JOINTLY AND SEVERALLY FORCE IS TOWARDS THE MERCHANT UNDER THE CONTRACT AGREEMENT. MORE THE CONSUMERS RECOGNIZES THAT THE MERCHANT MUST BE PAID IN FULL FOR THE FULL AMOUNT INDICATE ON THIS CONTRACT, FOR THE FULL TWELVE MONTH PERIOD, EVEN IF THE GOODS DESCRIBED IN ANNEX THREE IS DELIVERED IN TWO DELIVERIES."
+msgstr "SI PLUS D'UN CONSOMMATEUR SIGNE LE CONTRAT, IL EST CONJOINT ET EN VIGUEUR QUE LA FORCE EST VERS LE MARCHAND EN VERTU DE L'ACCORD CONTRACTANT. PLUS LES CONSOMMATEURS RECONNAISSENT QUE LE MARCHAND DOIT ÊTRE PAYE EN COMPLE POUR LE MONTANT INDIQUANT SUR CE CONTRAT, POUR LE TOTAL DEUX MOIS PÉRIODE, MÊME SI LES MARCHANDISES DÉCRITES À L'ANNEXE TROIS SONT LIVRÉES À DEUX LIVRAISONS."
+
+msgid "IF THE BUYER REFUSES TO RECEIVE A DELIVERY, IT WILL BE AUTOMATICALLY IN DEFAULT AND THEREFORE SHOULD PAY THE MERCHANT PLUS THE TOTAL BALANCE OF HIS DUTY PAYABLE UNDER THIS AGREEMENT, A PENALTY EQUAL TO SURPLUS 20% OF ALL THE SELLING PRICE. IF THE CONTRACT IS EXTENDED BEYOND THE MATURITY DATE OF THE LAST PAYMENT, INTEREST COST OF 2% PER MONTH WILL BE CHARGED ON THE BALANCE UNTIL PAYMENT IS FULLY PAID."
+msgstr "SI L'ACHETEUR REFUSE DE RECEVOIR UNE ENTREPÔT, IL SERAIT AUTOMATIQUEMENT EN DÉFAUT ET, PAR CONSÉQUENT, DEVRAIT PAYER LE MARCHAND PLUS LE BALANCE TOTAL DE SON DROIT PAYABLE EN VERTU DE CET ACCORD, UNE PÉNALE EQUALE POUR SURPLUS DE 20% DE TOUT LE PRIX DE VENTE. SI LE CONTRAT EST ÉTENDUE AU-DELÀ DE LA DATE DE MATURITÉ DU DERNIER PAIEMENT, LE COÛT D'INTÉRÊT DE 2% PAR MOIS SERA CHARGÉ SUR L'ÉQUILIBRE JUSQU'À CE QUE LE PAIEMENT EST TOTALEMENT PAYÉ."
+
+msgid "COUNTERVAILING  CHARGES OF $48, 00 WILL BE PAYABLE FOR SPECIES NOT HONOURED BY THE FINANCIAL INSTITUTION OF THE CONSUMER."
+msgstr "LES FRAIS COMPTEUSES DE 48 $, 00 SERONT PAYABLES POUR LES ESPECES NON HONORÉES PAR L'INSTITUTION FINANCIÈRE DU CONSOMMATEUR."
+
+msgid "THE CONSUMER RECOGNIZED THAT:"
+msgstr "LE CONSOMMATEUR A RECONNU QUE:"
+
+msgid "THE MERCHANT HAS FIRST SIGNED TWO COPIES OF THIS AGREEMENT AND THE ANNEXES DULY COMPLETED;"
+msgstr "LE MARCHAND A PREMIÈRE SIGNÉ DEUX COPIES DE CE CONTRAT ET LES ANNEXES DONNÉES COMPLÉTÉES;"
+
+msgid "THE MERCHANT THEN GAVE HIM A SIGNED COPY OF THIS AGREEMENT AND THE ANNEXES.   IMPORTANT NOTE:  BIING IMPOSSIBLE TO PRINT, THE ANNEXE THREE (3 DESCRPTION OF THE MERCHADISE ORDERED, THIS ANNEXES IS GIVEN TO THE CUNSUMER(S ON THE FRIST DELIVERY."
+msgstr "LE MARCHAND LORS QU'IL FAIT UNE COPIE SIGNÉE DE CE CONTRAT ET DES ANNEXES. NOTE IMPORTANTE: BIEN IMPOSSIBLE À IMPRIMER, L'ANNEXE TROIS (3 DESCRPTION DU COMMERCE ORDONNÉ, CETTE ANNEXE EST DONNÉ AU CUNSUMER (S SUR LA LIVRAISON DE LIVRAISON."
+
+msgid "THE MERCHANT ALLOWED HIM TO READ THE TERMS AND PROVIDED ADEQUATE EXPLANATIONS ON THE SCOPE AND EXTENT OF THE TERMS OF THIS AGREEMENT;"
+msgstr "LE MARCHAND LE PERMET DE LIRE LES TERMES ET DE FOURNIR DES EXPLICATIONS ADÉQUATES SUR LA CHAMP D'APPLICATION ET L'EXTENSION DES TERMES DE CE CONTRAT;"
+
+msgid "IT HAS SIGNED TWO COPIES OF THE CONTRACT, HAS RETAINED ONE AND GAVE THE OTHER TO THE FOOD CONSULTANT"
+msgstr "IL A SIGNÉ DEUX COPIES DU CONTRAT, A RETENU UN ET A DONNÉ L'AUTRE AU CONSULTANT ALIMENTAIRE"
+
+msgid "THE MERCHANT WILL SEND A COPY OF THE SHEET COMMAND."
+msgstr "LE MARCHAND ENVOYERA UNE COPIE DU COMMANDE DE LA FEUILLE."
+
+msgid "You can resolve this contract for any reason, for a period of 10 days after receipt of the double of the contract and the documents that needs to be appended."
+msgstr "Vous pouvez résoudre ce contrat pour quelque raison que ce soit, pour une période de 10 jours après la réception du double du contrat et des documents qui doivent être ajoutés."
+
+msgid "If you do not receive goods or service within 30 days of a date specified in the contract, you have 1 year to rescind the contract. However, you lose this right of resolution if you accept the delivery after this 30 day period. The time of exercise of the right of resolution may also be increased to 1 year for other reasons, including for lack permits, for absence or disability of bail, for lack of delivery or non-conformity of the contract. For more information, contact a legal adviser or the Office of consumer protection."
+msgstr "Si vous ne recevez pas de biens ou de service dans les 30 jours suivant la date spécifiée dans le contrat, vous avez 1 an pour résilier le contrat. Cependant, vous perdez ce droit de résolution si vous acceptez la livraison après cette période de 30 jours. L'exercice du droit de résolution peut également être porté à 1 an pour d'autres raisons, y compris pour des manquements de permis, pour absence ou invalidité de mise en liberté sous caution, faute de livraison ou de non-conformité du contrat. Pour plus d'informations, contactez un conseiller juridique Ou le Bureau de la protection des consommateurs."
+
+msgid "When the contract is resolved, the itinerant trader should you repay all monies you have paid and return you anything although it received payment, in Exchange or deposit; if it can render this property, the itinerant trader must give a sum corresponding to the price of this well indicated in the contract or, failing that, the value of this property within 15 days of the resolution. In the same period, you must submit to the itinerant trader the property that you received from the merchant. To resolve the contract sufficiently, either to the proprietor or his representative that you received the merchandise from, you will need to return the form below or send him another notice to this effect. The form or notice must be sent to the proprietor or his representative, the address indicated on the form or another proprietor or representative address indicated in the contract. The notice must be delivered in person or be given by any other means enabling the consumer to prove its shipment: by registered mail, by e-mail, by fax or by courier."
+msgstr "Lorsque le contrat est résolu, le commerçant itinérant devrait rembourser toutes les sommes que vous avez payées et vous renvoyer tout, bien qu'il ait reçu le paiement, en échange ou en dépôt; s'il peut rendre cette propriété, le commerçant itinérant doit donner une somme correspondant au prix De ce bien indiqué dans le contrat ou, à défaut, de la valeur de ce bien dans les 15 jours de la résolution. Dans la même période, vous devez soumettre au commerçant itinérant le bien que vous avez reçu du marchand. Pour résoudre le contrat suffisamment , Soit au propriétaire ou à son représentant dont vous avez reçu la marchandise, vous devrez renvoyer le formulaire ci-dessous ou lui envoyer un autre avis à cet effet. Le formulaire ou l'avis doit être envoyé au propriétaire ou à son représentant, l'adresse indiquée sur La forme ou l'autre adresse du titulaire ou du représentant indiquée dans le contrat. L'avis doit être remis en personne ou être délivré par tout autre moyen permettant au consommateur de prouver son envoi: Par courrier recommandé, par courrier électronique, par télécopieur ou par courrier."
+
+msgid "Resolution of the consumer rights statement"
+msgstr "Résolution de la déclaration des droits des consommateurs"
+
+msgid "SIGNED ON"
+msgstr "SIGNÉ LE"
+
+msgid "AT"
+msgstr "À"
+
+msgid "Merchant:"
+msgstr "Marchand:"
+
+msgid "Consumer(s):"
+msgstr "Consommateur(s):"
+
+msgid "Resolution of the consumer rights statemen"
+msgstr "Résolution de l'énoncé des droits des consommateur"
+
+msgid "(Act on the protection of the consumer, S.58)"
+msgstr "(Loi sur la protection des consommateur, S.58)"
+
+msgid "Payment Information"
+msgstr "Informations de Paiement"
+
+msgid "Hidden for security reasons"
+msgstr "Caché pour des raisons de sécurité"
+
+msgid "Visa / Master Card"
+msgstr "Visa / Master Card"
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "CCV"
+msgstr "CCV"
+
+msgid "Name on the Card"
+msgstr "Nom sur la carte"
+
+msgid "Pre-Authorized Payment"
+msgstr "Paiement Préautorisé"
+
+msgid "Cash / Cheque"
+msgstr "Espèces / chèques"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Orders For"
+msgstr "Commandes Pour"
+
+msgid "Approve Updates"
+msgstr "Approuver les changements"
+
+msgid "Send Emails"
+msgstr "Envoyer les emails"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Original Points"
+msgstr "Points d'origine"
+
+msgid "New Points"
+msgstr "Nouveaux Points"
+
+msgid "Sign here"
+msgstr "Signez ici"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Preview & Submit"
+msgstr "Aperçu & Envoyer"
+
+msgid "Please review and submit"
+msgstr "S'il vous plaît examiner et soumettre"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "VIEW MY ORDER"
+msgstr "VOIR MA COMMANDE"
+
+msgid "MY ORDER LIST"
+msgstr "MA LISTE DE COMMANDE"
+
+msgid "Please select size"
+msgstr "Sélectionnez la taille"
+
+msgid "You must fill in the quantity fields"
+msgstr "Vous devez remplir les champs de quantité"
+
+msgid "You must choose a product size"
+msgstr "Vous devez choisir une taille de produit"
